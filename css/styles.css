@@ -1,0 +1,15 @@
+.contenedor-principal {
+    height: 100vh;
+    background-color: #9ed9e3;
+}
+
+.contenedor-principal .form {
+    background-color: #59A17E;
+    border-radius: 10px;
+    color: #fff;
+    padding: 40px;
+}
+
+.contenedor-principal .form textarea {
+    resize: none;
+}
